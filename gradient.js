@@ -517,5 +517,3 @@ class Gradient {
 * Gradient.toggleColor(index)
 * Gradient.updateFrequency(freq)
 */
-
-export { Gradient }
