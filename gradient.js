@@ -398,7 +398,7 @@ class Gradient {
                       value: this.amp
                   }),
                   noiseSpeed: new this.minigl.Uniform({
-                      value: 10
+                      value: 100
                   }),
                   noiseFlow: new this.minigl.Uniform({
                       value: 3
